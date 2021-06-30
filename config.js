@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Tên người yêu bạn à!',
+    introTitle: 'Xin chào người bạn yêu quý của tuiii!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Mà sao tui lại cứ mún nhậu zới bạn
+    Lạc vào chữ nhậu khó thoát lắm bạn à
+    Đằng sau chữ nhậu là chữ nôn nhưng mà tui zẫn mún nhậu`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    title: 'Phải chăng tui đã không nhậu lâu quá rồi 😙',
+    desc: 'Phải chăng tui đã quên đi mùi rựơu ấy ',
+   btnYes: 'Ok đi luôn bạn iu<33',
+    btnNo: 'Rượu bia có hại cho sức khoẻ lắm :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao cậu lại đồng ý đi nhậu zới tui <3',
+    btnReply: 'Gửi cho tớ <3',
+    reply: 'Đi thì đi không đi thì cũng đi <33333333',
+    mess: 'Tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
+    messDesc: 'Tối nay 7h tớ qua đón nhé bạn nhậu.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/pororo1409' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
