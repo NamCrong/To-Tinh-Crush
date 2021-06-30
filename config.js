@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Xin chào người bạn yêu quý của tuiii!',
+    introTitle: 'Hello Ý nà!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao tui lại cứ mún nhậu zới bạn
-    Lạc vào chữ nhậu khó thoát lắm bạn à
-    Đằng sau chữ nhậu là chữ nôn nhưng mà tui zẫn mún nhậu`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng tui đã không nhậu lâu quá rồi 😙',
-    desc: 'Phải chăng tui đã quên đi mùi rựơu ấy ',
-   btnYes: 'Ok đi luôn bạn iu<33',
-    btnNo: 'Rượu bia có hại cho sức khoẻ lắm :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao cậu lại đồng ý đi nhậu zới tui <3',
-    btnReply: 'Gửi cho tớ <3',
-    reply: 'Đi thì đi không đi thì cũng đi <33333333',
-    mess: 'Tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h tớ qua đón nhé bạn nhậu.',
-    btnAccept: 'Okiiiii lunnn <3',
+    Mà sao Nam có câu hỏi thắc mắc lắm luôn
+    Là Ý đã ăn cơm chưa nà ?
+    Ý ăn có ngon miệng không?`,
+    btnIntro: 'Ý ăn rồi',
+    title: 'Chúc Ý ngày mai ăn cơm cũng ngon miệng như hôm nay 😙',
+    desc: 'Ngày kia cũng ngon miệng như hôm nay <333 ',
+   btnYes: 'Haha. Cảm ơn Nam nha <3',
+    btnNo: 'Nam cũng ăn cơm ngon miệng nè :3',
+    question:'Trên thế giới hơn 7 tỉ người nhất định ngày nào đó Nam sẽ gặp được Ý <3',
+    btnReply: 'Gửi cho Nam <3',
+    reply: 'Hẹn Ý một ngày không xa nha <33333333',
+    mess: 'Tớ biết mà 🥰😘',
+    messDesc: 'Câu cuối chúc ngủ ngon là để cho 23h45.',
+    btnAccept: 'Haha OK nè Tí có link bài hát á Ý nghe cho dễ ngủ nha... <3',
     messLink: 'https://www.facebook.com/pororo1409' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
